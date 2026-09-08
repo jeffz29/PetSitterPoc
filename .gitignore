@@ -1,0 +1,8 @@
+# Build output
+bin/
+obj/
+
+# Keep explicit appsettings tracked if needed, otherwise ignore all generated config under bin
+PetSitter/bin/
+PetSitter/obj/
+Zen.Libraries.Ioc/bin/

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sources\\Zen\\PetSitterPoc\\PetSitter\\PetSitter.csproj": {}
+    "C:\\sources\\Zen\\PetSitterPoc\\petsitter\\PetSitter.csproj": {}
   },
   "projects": {
-    "C:\\sources\\Zen\\PetSitterPoc\\PetSitter\\PetSitter.csproj": {
+    "C:\\sources\\Zen\\PetSitterPoc\\petsitter\\PetSitter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sources\\Zen\\PetSitterPoc\\PetSitter\\PetSitter.csproj",
+        "projectUniqueName": "C:\\sources\\Zen\\PetSitterPoc\\petsitter\\PetSitter.csproj",
         "projectName": "PetSitter",
-        "projectPath": "C:\\sources\\Zen\\PetSitterPoc\\PetSitter\\PetSitter.csproj",
+        "projectPath": "C:\\sources\\Zen\\PetSitterPoc\\petsitter\\PetSitter.csproj",
         "packagesPath": "C:\\Users\\jeffz\\.nuget\\packages\\",
-        "outputPath": "C:\\sources\\Zen\\PetSitterPoc\\PetSitter\\obj\\",
+        "outputPath": "C:\\sources\\Zen\\PetSitterPoc\\petsitter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeffz\\AppData\\Roaming\\NuGet\\NuGet.Config"

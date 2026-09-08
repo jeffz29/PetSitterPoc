@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BzLuZ9KBft4=",
+  "dgSpecHash": "B9VJcpABi5A=",
   "success": true,
-  "projectFilePath": "C:\\sources\\Zen\\PetSitterPoc\\PetSitter\\PetSitter.csproj",
+  "projectFilePath": "C:\\sources\\Zen\\PetSitterPoc\\petsitter\\PetSitter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeffz\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
     "C:\\Users\\jeffz\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
