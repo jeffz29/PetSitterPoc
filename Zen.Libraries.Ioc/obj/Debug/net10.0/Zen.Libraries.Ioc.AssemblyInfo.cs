@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zen.Libraries.Ioc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0199e0fe8689e009bc93e5f5642b96eac607559")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zen.Libraries.Ioc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zen.Libraries.Ioc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
